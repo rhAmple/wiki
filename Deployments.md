@@ -14,7 +14,7 @@ Deployer Address: 0xDED71BE67Ddbc0461Ba8E5B2569D8220C35ede41
 
 | Parameter                   | Value                                      |
 |-----------------------------|--------------------------------------------|
-| rhAmple Owner               | [0xDED71BE67Ddbc0461Ba8E5B2569D8220C35ede41](https://kovan.etherscan.io/address/0xe265b41fd2b603df6320539b0ec57c78c9e35765) |
+| rhAmple Owner               | [0xDED71BE67Ddbc0461Ba8E5B2569D8220C35ede41](https://kovan.etherscan.io/address/0xDED71BE67Ddbc0461Ba8E5B2569D8220C35ede41) |
 | Max Amples allowed to hedge | 1000e9                                     |
 | Rebase Strategy             | [0xe265b41fd2b603df6320539b0ec57c78c9e35765](https://kovan.etherscan.io/address/0xe265b41fd2b603df6320539b0ec57c78c9e35765) |
 | Rebase Hedger               | [0xbdc73fef8a31896f0f727faba5afd9f88e714654](https://kovan.etherscan.io/address/0xbdc73fef8a31896f0f727faba5afd9f88e714654)|
