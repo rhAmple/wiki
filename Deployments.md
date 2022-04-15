@@ -24,10 +24,10 @@ Deployer Address: 0xDED71BE67Ddbc0461Ba8E5B2569D8220C35ede41
 
 | Contract                           | Address                                    |
 |------------------------------------|--------------------------------------------|
-| rhAmple                            | [0x697ed17f645b5c6943f3ec09b07e9fd7247b1307](https://koven.etherscan.io/address/0x697ed17f645b5c6943f3ec09b07e9fd7247b1307) |
-| IRebaseStrategy(MainnetStrategyV1) | [0xe265b41fd2b603df6320539b0ec57c78c9e35765](https://koven.etherscan.io/address/0xe265b41fd2b603df6320539b0ec57c78c9e35765) |
-| IRebaseHedger(Aave)                | [0xbdc73fef8a31896f0f727faba5afd9f88e714654](https://koven.etherscan.io/address/0xbdc73fef8a31896f0f727faba5afd9f88e714654) |
-| IExchange(Mooniswap)               | [0xf715e208ce76d424612f2a408e59ed49e5ad9c7f](https://koven.etherscan.io/address/0xf715e208ce76d424612f2a408e59ed49e5ad9c7f) |
+| rhAmple                            | [0x697ed17f645b5c6943f3ec09b07e9fd7247b1307](https://kovan.etherscan.io/address/0x697ed17f645b5c6943f3ec09b07e9fd7247b1307) |
+| IRebaseStrategy(MainnetStrategyV1) | [0xe265b41fd2b603df6320539b0ec57c78c9e35765](https://kovan.etherscan.io/address/0xe265b41fd2b603df6320539b0ec57c78c9e35765) |
+| IRebaseHedger(Aave)                | [0xbdc73fef8a31896f0f727faba5afd9f88e714654](https://kovan.etherscan.io/address/0xbdc73fef8a31896f0f727faba5afd9f88e714654) |
+| IExchange(Mooniswap)               | [0xf715e208ce76d424612f2a408e59ed49e5ad9c7f](https://kovan.etherscan.io/address/0xf715e208ce76d424612f2a408e59ed49e5ad9c7f) |
 
 ### Other Contracts
 
